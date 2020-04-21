@@ -1,6 +1,7 @@
 # Data_Project_AQ
 这里对一份AQI数据进行了分析与预测，期望通过此次分析能解决如下疑问：
 
+ ![全国部分城市AQI](https://github.com/GraceYaa/Data_Project_AQI/blob/master/picture/map.html)
 - 1、哪些城市空气质量较好/较差？【描述性统计分析】
 - 2、空气质量在地理位置分布上，是否具有一定的规律？【描述性统计分析】
 - 3、临海城市的空气质量是否优于内地城市？【推断统计分析】
